@@ -1,5 +1,5 @@
 ---
-role: Professor of Artificial Intelligence
+role: B.Sc. Student of Computer Engineering
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -23,8 +23,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: at Shahid Bahonar University
+    url: https://uk.ac.ir/en/home
 education:
   courses:
     - course: PhD in Artificial Intelligence
