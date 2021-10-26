@@ -22,11 +22,11 @@ organizations:
     url: https://uk.ac.ir/en/home
 education:
   courses:
-    - course: Diploma In Mathematics and Physics
-      institution: "Allameh Helli High School "
-      year: ""
     - course: BSc in Computer Engineering
       institution: Shahid Bahonar University of Kerman
+      year: ""
+    - course: Diploma In Mathematics and Physics
+      institution: "Allameh Helli High School "
       year: ""
 superuser: true
 highlight_name: true
