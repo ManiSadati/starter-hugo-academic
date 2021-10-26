@@ -1,5 +1,6 @@
 ---
 role: B.Sc. Student of Computer Engineering
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -10,12 +11,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
@@ -27,15 +22,12 @@ organizations:
     url: https://uk.ac.ir/en/home
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Diploma In Mathematics and Physics
+      institution: "Allameh Helli High School "
+      year: ""
+    - course: BSc in Computer Engineering
+      institution: Shahid Bahonar University of Kerman
+      year: ""
 superuser: true
 highlight_name: true
 title: Seyed Mani Sadati
