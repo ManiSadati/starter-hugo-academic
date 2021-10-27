@@ -26,7 +26,7 @@ experience:
     company: Allame Helli High School
     company_url: ''
     company_logo: org-gc
-    location: 
+    location: ''
     date_start: '2018'
     date_end: '2019'
     description: Taught Algorithm design, Graph theory and programming.
@@ -34,8 +34,8 @@ experience:
   - title: Scientific Team Member
     company: Saba Programming Contest
     company_url: 'https://codeforces.com/topic/66947/en6'
-    company_logo: 
-    location: 
+    company_logo: ''
+    location: ''
     date_start: '2016-01-01'
     date_end: '2020-12-31'
     description: An onsite and online programming contest. The Online contest was held at HackerEarth.
