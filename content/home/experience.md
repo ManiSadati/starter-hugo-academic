@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: ''
-    date_start: '2018'
-    date_end: '2019'
+    date_start: '2016-01-01'
+    date_end: '2016-01-02'
     description: Taught Algorithm design, Graph theory and programming.
         
   - title: Scientific Team Member
