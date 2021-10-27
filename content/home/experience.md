@@ -34,7 +34,7 @@ experience:
   - title: Scientific Team Member
     company: Saba Programming Contest
     company_url: 'https://codeforces.com/topic/66947/en6'
-    company_logo: he
+    company_logo: 
     location: 
     date_start: '2016-01-01'
     date_end: '2020-12-31'
