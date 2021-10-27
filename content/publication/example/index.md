@@ -26,8 +26,8 @@ publication_short: In *ICW*
 url_source: ""
 url_video: ""
 publication: In *Wowchemy Conference*
-featured: true
-date: 2013-07-01T00:00:00Z
+featured: false
+date: 2013-07-01T00:00:00.000Z
 url_slides: ""
 title: "FitAct: Error Resilient Deep Neural Networks via Fine-Grained
   Post-Trainable Activation Functions"
@@ -39,7 +39,7 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: ""
