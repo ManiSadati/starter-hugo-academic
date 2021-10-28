@@ -9,7 +9,7 @@ featured: false
 tags:
   - Cpp
 links:
-  - icon_pack: ai
+  - icon_pack: fas
     url: http://iccad-contest.org/2020/index.html
     name: CAD Contest
 image:
