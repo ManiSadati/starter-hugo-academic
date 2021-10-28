@@ -25,8 +25,7 @@ education:
   courses:
     - course: B.Sc. In Computer Engineering
       institution: Shahid Bahonar University of Kerman
-      date_start: '2019-01-19'
-      date_end: '2019-04-19'
+      year: "2018-"
     - course: Diploma In Mathematics and Physics
       institution: "Allameh Helli High School "
       year: "2014-2018"
