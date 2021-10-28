@@ -26,8 +26,8 @@ abstract: In this paper, we propose **FitAct**, a low-cost approach to enhance
   FitAct outperform state-of-the-art studies such as Clip-Act and Ranger in
   enhancing the DNN error resilience for a wide range of fault rates, while
   adding manageable runtime and memory space overheads.
-draft: true
-featured: true
+draft: false
+featured: false
 tags:
   - a
 categories:
