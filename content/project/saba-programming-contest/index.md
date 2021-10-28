@@ -5,6 +5,7 @@ draft: false
 featured: false
 tags:
   - C++
+  - ""
 image:
   filename: featured
   focal_point: Smart
