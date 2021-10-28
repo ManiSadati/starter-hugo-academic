@@ -1,19 +1,17 @@
 ---
 slides: example
 url_pdf: ""
-summary: An example of using the in-built project page.
+summary: |-
+  I designed and implemented a new method to optimally parallelize the verilog\
+  design of various circuits. I used C++, CUDA and verilog.
 url_video: ""
-date: 2016-04-27T00:00:00Z
+date: 2021-10-28T09:07:56.527Z
 external_link: ""
 url_slides: ""
 title: GPU Acclerated Logic re-simulation
 tags:
-  - Deep Learning
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+  - C++
+links: []
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
