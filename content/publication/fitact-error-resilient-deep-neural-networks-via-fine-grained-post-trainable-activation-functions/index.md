@@ -1,7 +1,7 @@
 ---
 title: "FitAct: Error Resilient Deep Neural Networks via Fine-Grained
   Post-Trainable Activation Functions"
-subtitle: ""
+subtitle: sdfsdf
 publication_types:
   - "1"
 authors:
@@ -9,6 +9,9 @@ authors:
   - Behnam Ghavami
   - Zhenman Fang
   - Lesley Shannon
+author_notes:
+  - werwer
+doi: asdf
 publication: Design, Automation & Test in Europe Conference & Exhibition (*DATE*)
 publication_short: " DATE (Under Review) "
 abstract: In this paper, we propose **FitAct**, a low-cost approach to enhance
@@ -23,8 +26,8 @@ abstract: In this paper, we propose **FitAct**, a low-cost approach to enhance
   FitAct outperform state-of-the-art studies such as Clip-Act and Ranger in
   enhancing the DNN error resilience for a wide range of fault rates, while
   adding manageable runtime and memory space overheads.
-draft: false
-featured: false
+draft: true
+featured: true
 tags:
   - a
 categories:
@@ -33,11 +36,11 @@ projects:
   - c
 slides: d
 image:
-  filename: featured
-  focal_point: Smart
+  filename: ""
+  focal_point: ""
   preview_only: false
-  caption: e
-  alt_text: f
+  caption: ""
+  alt_text: sdsdfsdfsdf
 summary: h In this paper, we propose **FitAct**, a low-cost approach to enhance
   the error resilience of DNNs by deploying fine-grained post-trainable
   activation functions. The main idea is to precisely bound the activation value
