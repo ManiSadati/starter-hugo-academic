@@ -4,9 +4,10 @@ avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Deep Lerning
+  - Computer Aided Design
+  - Dependable Systems
+  - Fault Injection
 social:
   - icon: envelope
     icon_pack: fas
@@ -22,7 +23,7 @@ organizations:
     url: https://uk.ac.ir/en/home
 education:
   courses:
-    - course: BSc in Computer Engineering
+    - course: B.Sc. In Computer Engineering
       institution: Shahid Bahonar University of Kerman
       year: ""
     - course: Diploma In Mathematics and Physics
@@ -33,9 +34,8 @@ highlight_name: true
 title: Seyed Mani Sadati
 email: ""
 ---
-
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
