@@ -29,7 +29,7 @@ education:
       date_end: '2019-04-19'
     - course: Diploma In Mathematics and Physics
       institution: "Allameh Helli High School "
-      year: ""
+      year: "2014-2018"
 superuser: true
 highlight_name: true
 title: Seyed Mani Sadati
