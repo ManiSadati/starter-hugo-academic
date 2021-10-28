@@ -8,7 +8,17 @@ authors:
   - Behnam Ghavami
   - Zhenman Fang
   - Lesley Shannon
-abstract: asdfsdfsdf
+abstract: |-
+  However, in order to doing bit-flipping, most existing
+  bit-flip attacks require access to the original training/test dataset.
+  This is frequently not possible for applications that contain
+  sensitive or proprietary data, for example, due to privacy and
+  security concerns.
+  In this paper, we address the bit-flip attack when no real data
+  is available, e.g., when data is private. To this end, we propose the
+  first data-independent attack which can crush a neural network
+  through maliciously flipping extremely small amount of bits
+  within its weight storage memory system (i.e., DRAM).
 draft: false
 featured: false
 image:
