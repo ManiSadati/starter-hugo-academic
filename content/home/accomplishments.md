@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: http://iccad-contest.org/2020/winners.html
+- certificate_url: "/uploads/2020_ICCAD_CADWinners_Certificates_Seyed Mani Sadati.pdf"
   date_end: ""
   date_start: "2020-09-09"
   description: "Winner team of problem C: GPU Accelerated Logic Re-simulation."
