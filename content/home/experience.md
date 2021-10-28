@@ -36,8 +36,8 @@ experience:
     company_url: 'https://www.hackerearth.com/challenges/competitive/april-circuits-19/'
     company_logo: he
     location: ''
-    date_start: '2019-04-19'
-    date_end: ''
+    date_start: '2019-01-19'
+    date_end: '2019-04-19'
     description: An online programming contest. The onsite contest was held under the name Saba Programming Contest.
   
   # - title: Participant
