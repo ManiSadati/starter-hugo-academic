@@ -1,6 +1,6 @@
 ---
 title: GPU Acclerated Logic re-simulation
-date: 2021-10-28T12:32:36.510Z
+date: 2021-10-28T12:58:02.417Z
 summary: |-
   I designed and implemented a new method to optimally parallelize the verilog\
   design of various circuits. I used C++, CUDA and verilog.
@@ -8,6 +8,10 @@ draft: false
 featured: false
 tags:
   - Cpp
+links:
+  - icon_pack: fas
+    url: http://iccad-contest.org/2020/winners.html
+    name: CAD Contest
 image:
   filename: featured
   focal_point: Smart
