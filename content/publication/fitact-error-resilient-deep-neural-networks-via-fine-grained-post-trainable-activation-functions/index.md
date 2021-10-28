@@ -41,6 +41,6 @@ image:
   preview_only: false
   caption: ""
   alt_text: ""
-summary: ""
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 date: 2021-10-28T13:02:49.505Z
 ---
