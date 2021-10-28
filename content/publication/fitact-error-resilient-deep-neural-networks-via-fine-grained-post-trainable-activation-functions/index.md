@@ -33,7 +33,8 @@ tags:
   - Fault Injection
   - ""
 categories: []
-projects: []
+projects:
+- fault-injection-on-deep-learning-models
 slides: ""
 image:
   filename: ""
