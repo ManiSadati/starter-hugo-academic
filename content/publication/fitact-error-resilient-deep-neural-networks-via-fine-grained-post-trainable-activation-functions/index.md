@@ -36,6 +36,7 @@ categories: []
 projects:
 - fault-injection-on-deep-learning-models
 slides: ""
+url_code: 'https://github.com/ManiSadati/FitAct'
 image:
   filename: ""
   focal_point: ""
