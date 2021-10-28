@@ -4,8 +4,7 @@ date: 2021-10-26T21:43:00.489Z
 draft: false
 featured: false
 tags:
-  - C++
-  - ""
+  - Cpp
 image:
   filename: featured
   focal_point: Smart
