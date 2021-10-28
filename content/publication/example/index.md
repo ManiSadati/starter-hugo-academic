@@ -13,21 +13,21 @@ publication_types:
   - "1"
 authors:
   - admin
-  - Robert Ford
+  - Behnam Ghavami
+  - Zhenman Fang
+  - Lesley Shannon
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum.
 url_dataset: ""
 url_project: ""
-author_notes:
-  - Equal contribution
-  - Equal contribution
-publication_short: In *ICW*
+author_notes: []
+publication_short: " DATE (Under Review) "
 url_source: ""
 url_video: ""
-publication: In *Wowchemy Conference*
+publication: Design, Automation & Test in Europe Conference & Exhibition (*DATE*)
 featured: false
-date: 2013-07-01T00:00:00.000Z
+date: 2021-10-28T12:20:14.578Z
 url_slides: ""
 title: "FitAct: Error Resilient Deep Neural Networks via Fine-Grained
   Post-Trainable Activation Functions"
@@ -36,7 +36,7 @@ tags: []
 projects:
   - example
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: ""
   focal_point: ""
   preview_only: false
 publishDate: 2017-01-01T00:00:00.000Z
