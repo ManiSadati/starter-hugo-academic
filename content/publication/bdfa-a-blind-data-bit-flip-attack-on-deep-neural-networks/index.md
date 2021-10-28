@@ -23,6 +23,10 @@ tags:
   - Deep Learning
   - Security
   - Bit-Flip Attack
+projects:
+- blind-data-free-attack
+slides: ""
+url_code: 'https://github.com/ManiSadati/BDFA'
 image:
   filename: ""
   focal_point: Smart
