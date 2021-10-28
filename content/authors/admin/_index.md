@@ -1,8 +1,8 @@
 ---
 role: B.Sc. Student of Computer Engineering
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Deep Lerning, Computer Aided Designs and
+  Dependable Systems.
 interests:
   - Deep Lerning
   - Computer Aided Design
