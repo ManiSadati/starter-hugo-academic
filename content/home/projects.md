@@ -29,8 +29,8 @@ content:
     tag: '*'
   - name: Python
     tag: Python
-  - name: C++
-    tag: C++
+  - name: Cpp
+    tag: Cpp
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
