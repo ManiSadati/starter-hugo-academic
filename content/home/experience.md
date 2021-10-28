@@ -27,18 +27,29 @@ experience:
     company_url: ''
     company_logo: nodet
     location: ''
-    date_start: '2016-01-01'
-    date_end: '2016-01-02'
+    date_start: '2018-10-01'
+    date_end: '2019-03-02'
     description: Taught Algorithm design, Graph theory and programming.
         
   - title: Scientific Team Member
-    company: Saba Programming Contest
-    company_url: 'https://codeforces.com/topic/66947/en6'
+    company: HackerEarth
+    company_url: 'https://www.hackerearth.com/challenges/competitive/april-circuits-19/'
     company_logo: he
     location: ''
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: An onsite and online programming contest. The Online contest was held at HackerEarth.
+    date_start: '2019-04-19'
+    date_end: ''
+    description: An online programming contest. The onsite contest was held under the name Saba Programming Contest.
+  
+  # - title: Participant
+  #   company: ACM-ICPC
+  #   company_url: 'https://icpc.global/ICPCID/4DNVIFRIHENV'
+  #   company_logo: ''
+  #   location: ''
+  #   date_start: '2018-12-19'
+  #   date_end: '2020-12-19'
+  #   description: '|2-
+  #   The International Collegiate Programming Contest is an algorithmic programming contest for college students. Teams of three, representing their university, work to solve the most real-world problems, fostering collaboration, creativity, innovation, and the ability to perform under pressure.
+  #   '
 
 design:
   columns: '2'
