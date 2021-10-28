@@ -10,7 +10,7 @@ external_link: ""
 url_slides: ""
 title: GPU Acclerated Logic re-simulation
 tags:
-  - C++
+  - Cpp
 links: []
 image:
   caption: Photo by rawpixel on Unsplash
