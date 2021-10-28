@@ -1,7 +1,7 @@
 ---
 title: "FitAct: Error Resilient Deep Neural Networks via Fine-Grained
   Post-Trainable Activation Functions"
-subtitle: subtitle
+subtitle: ""
 publication_types:
   - "1"
 authors:
@@ -11,14 +11,18 @@ authors:
   - Lesley Shannon
 publication: Design, Automation & Test in Europe Conference & Exhibition (*DATE*)
 publication_short: " DATE (Under Review) "
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus
-  urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci,
-  mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in
-  dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum
-  arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla
-  eleifend gravida.
+abstract: In this paper, we propose **FitAct**, a low-cost approach to enhance
+  the error resilience of DNNs by deploying fine-grained post-trainable
+  activation functions. The main idea is to precisely bound the activation value
+  of each individual neuron via neuron- wise bounded activation functions, so
+  that it could prevent the fault propagation in the network. To avoid complex
+  DNN model re-training, we propose to decouple the accuracy training and
+  resilience training, and develop a lightweight post-training phase to learn
+  these activation functions with precise bound values. Experimental results on
+  widely used DNN models such as AlexNet, VGG16, and ResNet50 demonstrate that
+  FitAct outperform state- of-the-art studies such as Clip-Act and Ranger in
+  enhancing the DNN error resilience for a wide range of fault rates, while
+  adding manageable runtime and memory space overheads.
 draft: false
 featured: false
 image:
