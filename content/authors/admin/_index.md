@@ -18,7 +18,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: at Shahid Bahonar University
+  - name: Shahid Bahonar University
     url: https://uk.ac.ir/en/home
 education:
   courses:
