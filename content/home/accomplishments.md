@@ -40,8 +40,8 @@ item:
   title: Bronze Medal
   url: 
 - certificate_url: ""
-  date_end: "2018-09-21"
-  date_start: "2021-10-01"
+  date_end: "2021-10-01"
+  date_start: "2018-09-21"
   description: "Among 120 computer engineering students. First GPA Rank in 2021."
   organization: Shahid Bahonar University
   organization_url: https://uk.ac.ir/en/home
