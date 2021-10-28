@@ -25,7 +25,7 @@ experience:
   - title: Teacher
     company: Allame Helli High School
     company_url: ''
-    company_logo: org-gc
+    company_logo: nodet
     location: ''
     date_start: '2016-01-01'
     date_end: '2016-01-02'
