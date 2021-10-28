@@ -24,7 +24,7 @@ tags:
   - Security
   - Bit-Flip Attack
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
 summary: ""
