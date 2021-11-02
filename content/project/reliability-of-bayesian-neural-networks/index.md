@@ -1,6 +1,6 @@
 ---
 title: Reliability of Bayesian Neural Networks
-date: 2021-11-02T18:54:48.910Z
+date: 2021-11-02T18:57:15.699Z
 draft: false
 featured: false
 tags:
