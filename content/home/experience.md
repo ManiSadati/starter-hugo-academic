@@ -22,6 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Assistant
+    company: Shahid Bahonar University of Kerman
+    company_url: ''
+    company_logo: bahonar
+    location: ''
+    date_start: '2021-01-01'
+    date_end: ''
+    description: Worked on several projects under supervision of Prof. Behnam Ghavami
   - title: Teacher
     company: Allame Helli High School
     company_url: ''
