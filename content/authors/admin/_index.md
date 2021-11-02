@@ -11,13 +11,13 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: sadati.man@outlook.com
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/ManiSadati
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.ir.linkedin.com/in/seyed-mani-sadati
 organizations:
   - name: Shahid Bahonar University
     url: https://uk.ac.ir/en/home
