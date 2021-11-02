@@ -1,6 +1,6 @@
 ---
 title: Fault injection on Deep learning models
-date: 2021-10-26T21:41:12.431Z
+date: 2021-11-02T19:23:15.713Z
 summary: >-
   I studied the robustness of multiple DNN architectures, and designed a new\
 
