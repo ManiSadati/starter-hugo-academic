@@ -1,6 +1,6 @@
 ---
 title: Blind Data-Free Attack
-date: 2021-10-26T21:42:20.225Z
+date: 2021-11-02T19:22:58.920Z
 summary: >-
   I developed various methods to do an optimal bit-flip attack on DNN’s
   parameters\
