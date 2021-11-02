@@ -10,5 +10,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-I implemented solutions and validation checks for each problem of the contest\
-using C++.
+In this project, I designed two problems and prepared several problem statements for\
+the Saba Programming Contest. In addition, I implemented the solutions and did\
+validation checks and testing for several problems using C++.
