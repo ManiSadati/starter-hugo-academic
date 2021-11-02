@@ -1,6 +1,6 @@
 ---
 title: Full Facial Recognition System
-date: 2021-10-26T21:42:40.100Z
+date: 2021-11-02T19:22:36.721Z
 summary: >-
   I had to implement and design a low-cost full facial recognition system. I\
 
