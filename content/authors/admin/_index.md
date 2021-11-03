@@ -5,6 +5,7 @@ bio: My research interests include Deep Lerning, Computer Aided Designs and
   Dependable Systems.
 interests:
   - Deep Lerning
+  - Deep Learning On Edge
   - Computer Aided Design
   - Dependable Systems
   - Fault Injection
@@ -25,10 +26,10 @@ education:
   courses:
     - course: B.Sc. In Computer Engineering
       institution: Shahid Bahonar University of Kerman
-      year: "2018-"
+      year: 2018-
     - course: Diploma In Mathematics and Physics
       institution: "Allameh Helli High School "
-      year: "2014-2018"
+      year: 2014-2018
 superuser: true
 highlight_name: true
 title: Seyed Mani Sadati
@@ -36,7 +37,7 @@ email: ""
 ---
 I am a B.Sc student in Computer Engineering, from the Department of Computer Engineering ([CE](https://ce.uk.ac.ir/en/home)) at Shahid Bahonar University of Kerman ([SBUK](https://uk.ac.ir/en/home)) under the supervision of professor [Behnam Ghavami](https://scholar.google.com/citations?user=a0vk8BkAAAAJ&hl=en).
 
-My research focuses on Computer Aided Design, Robust and Reliable Deep Learning models, Efficiency and quantization of Deep Learning models, and parallel programming. Currently, I am working on Quantization and Binarization of Deep learning models. 
+My research focuses on   Efficiency and quantization of Deep Learning, Computer Aided Design, Robust and Reliable Deep Learning models, and parallel programming. Currently, I am working on Quantization and Binarization of Deep learning models. 
 
 In the past few years, I've done several research/programming projects using Python (Pytorch, matplotlib and tensorflow frameworks) and C++ (STL and CUDA libraries). I've also collaborated with Reconfigurable Computing LAB, Simon Fraser University and it resulted in two papers.
 
