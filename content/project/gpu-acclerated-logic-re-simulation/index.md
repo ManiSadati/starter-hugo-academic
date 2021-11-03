@@ -1,6 +1,6 @@
 ---
 title: GPU Acclerated Logic re-simulation
-date: 2021-11-02T19:37:44.195Z
+date: 2021-11-03T19:30:21.354Z
 summary: I designed and implemented a new method to optimally parallelize the
   verilog design of various circuits. I used C++, CUDA and verilog.
 draft: false
