@@ -37,7 +37,7 @@ image:
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum.
-date: 2021-10-28T13:02:49.505Z
+date: 2021-11-03T19:28:42.842Z
 url_code: https://github.com/ManiSadati/FitAct
 doi: ""
 ---
