@@ -10,13 +10,13 @@ authors:
   - Lesley Shannon
 author_notes: []
 publication: Design, Automation & Test in Europe Conference & Exhibition (*DATE*)
-publication_short: " DATE (**Under Review**) "
+publication_short: " DATE (**Accepted**) "
 abstract: In this paper, we propose a low-cost approach to enhance the error
   resilience of DNNs. Experimental results on widely used DNN models such as
   AlexNet, VGG16, and ResNet50 demonstrate that this method outperform
   state-of-the-art studies such as Clip-Act and Ranger in enhancing the DNN
   error resilience for a wide range of fault rates, while adding manageable
-  runtime and memory space overheads. (**Under Review**)
+  runtime and memory space overheads. (**Accepted**)
 draft: false
 featured: false
 tags:
