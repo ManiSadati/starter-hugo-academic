@@ -18,7 +18,7 @@ social:
     link: https://github.com/ManiSadati
   - icon: linkedin
     icon_pack: fab
-    link: https://www.ir.linkedin.com/in/seyed-mani-sadati
+    link: www.linkedin.com/in/seyed-mani-sadati
 organizations:
   - name: Shahid Bahonar University
     url: https://uk.ac.ir/en/home
