@@ -23,7 +23,7 @@ organizations:
     url: https://uk.ac.ir/en/home
 education:
   courses:
-    - course: B.Sc. In Computer Engineering
+    - course: "B.Sc. In Computer Engineering"
       institution: "Shahid Bahonar University of Kerman"
       year: 2018-Present
     - course: Diploma In Mathematics and Physics
