@@ -1,7 +1,7 @@
 ---
 role: B.Sc. Student of Computer Engineering
 avatar_filename: avatar.jpg
-bio: My research interests include Machine Lerning, Computer Aided Designs and
+bio: My research interests include Deep Lerning, Computer Aided Designs and
   Dependable Systems.
 interests:
   - Machine Lerning
@@ -23,8 +23,8 @@ organizations:
     url: https://uk.ac.ir/en/home
 education:
   courses:
-    - course: "B.Sc. In Computer Engineering"
-      institution: "Shahid Bahonar University of Kerman"
+    - course: B.Sc. In Computer Engineering
+      institution: Shahid Bahonar University of Kerman
       year: 2018-Present
     - course: Diploma In Mathematics and Physics
       institution: "Allameh Helli High School "
