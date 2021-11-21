@@ -1,14 +1,13 @@
 ---
 role: B.Sc. Student of Computer Engineering
 avatar_filename: avatar.jpg
-bio: My research interests include Deep Lerning, Computer Aided Designs and
+bio: My research interests include Machine Lerning, Computer Aided Designs and
   Dependable Systems.
 interests:
-  - Deep Lerning
+  - Machine Lerning
   - Deep Learning On Edge
   - Computer Aided Design
   - Dependable Systems
-  - Fault Injection
 social:
   - icon: envelope
     icon_pack: fas
