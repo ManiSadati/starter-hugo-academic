@@ -42,18 +42,10 @@ item:
 - certificate_url: ""
   date_end: "2021-10-01"
   date_start: "2018-09-21"
-  description: "Among 120 computer engineering students. First GPA Rank in 2021. Current GPA: 18.93/20"
+  description: "Among 120 computer engineering students. GPA: 18.93/20"
   organization: Shahid Bahonar University
   organization_url: https://uk.ac.ir/en/home
-  title: GPA Rank 2
-  url: ""
-- certificate_url: ""
-  date_end: "2016-04-21"
-  date_start: "2017-04-01"
-  description: "Among 10000 students, passed the first and second exam in both years."
-  organization: National Olympiad in Informatics
-  organization_url: https://inoi.ir
-  title: Top 70
+  title: GPA Rank 1
   url: ""
 
 design:
