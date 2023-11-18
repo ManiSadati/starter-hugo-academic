@@ -30,7 +30,7 @@ education:
       year: 2018-2023
 superuser: true
 highlight_name: true
-title: Seyed Mani Sadati
+title: Seyedmani (Mani) Sadati Seyedmahaleh
 email: ""
 ---
 I am a M.A.Sc student in Electrical and Computer Engineering at the University of British Columbia working under the supervision of Prof. ([Karthik Pattabiraman]([https://ce.uk.ac.ir/en/home](https://ece.ubc.ca/karthik-pattabiraman/))). I earned my B.Sc. degree in Computer Engineering At Shahid Bahonar University of Kerman. 
