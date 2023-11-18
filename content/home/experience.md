@@ -22,14 +22,38 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+    - title: Research Assistant
+    company: The University of British Columbia
+    company_url: ''
+    company_logo: ubc
+    location: ''
+    date_start: '2023-09-01'
+    date_end: ''
+    description: Working under supervision of Prof. Pattabiraman
+    - title: Teaching Assistant
+    company: The University of British Columbia
+    company_url: ''
+    company_logo: ubc
+    location: ''
+    date_start: '2023-09-01'
+    date_end: '2023-12-31'
+    description: TA for Computer Systems Course (CPEN211) taught by Prof. Aamodt
   - title: Research Assistant
     company: Shahid Bahonar University of Kerman
     company_url: ''
     company_logo: bahonar
     location: ''
     date_start: '2021-01-01'
-    date_end: ''
-    description: Worked on several projects under supervision of Prof. Behnam Ghavami
+    date_end: '2023-07-01'
+    description: Worked on several projects under supervision of Prof. Ghavami
+    - title: Teaching Assistant
+    company: Shahid Bahonar University of Kerman
+    company_url: ''
+    company_logo: bahonar
+    location: ''
+    date_start: '2022-02-01'
+    date_end: '2022-05-01'
+    description: TA for Algorithm Design Course taught by Prof. Mohseni
   - title: Teacher
     company: Allame Helli High School
     company_url: ''
